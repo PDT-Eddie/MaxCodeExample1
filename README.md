@@ -7,5 +7,5 @@ Markdown
 _Markdown_ will italicise the text too.
 **Markdown** will boldface the text.
 
-Markdown
+To see a complete list of Markdown commands, [click here](https://www.markdownguide.org/cheat-sheet/)
 
