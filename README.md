@@ -2,3 +2,10 @@
 1st code repo for the example
 This is a good reason to always document everything you are doing in a code base.
 
+Markdown
+*Markdown* will italicise the text.
+_Markdown_ will italicise the text too.
+**Markdown** will boldface the text.
+
+Markdown
+
