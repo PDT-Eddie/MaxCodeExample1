@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 apple
 carrot
 donut
 egg
+=======
+apple
+carrot
+donut
+egg
+>>>>>>> f8abf0a433f5646ad2b75e96faa9c1efb894fcb7
 grapefruit

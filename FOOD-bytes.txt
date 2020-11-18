@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 apple
 carrot
 donut
@@ -11,4 +12,19 @@ BIT=binary digit=0 or 1
 NIBBLE = four bits
 BYTE = eight bits
 KILOBYTE (KB)= 1024 bytes = 2^10 bytes 
+=======
+apple
+carrot
+donut
+egg
+french fries
+grapefruit
+
+0 1 2 3 4 5 6 7 8 9 A B C D E F 10 11 12 
+0 1 10 11 100 101 110 111 1000 1001 1010 1011 1100 1101 1110 1111 10000
+BIT=binary digit=0 or 1
+NIBBLE = four bits
+BYTE = eight bits
+KILOBYTE (KB)= 1024 bytes = 2^10 bytes 
+>>>>>>> f8abf0a433f5646ad2b75e96faa9c1efb894fcb7
 MEGABYTE (MB) = 1,048,576 bytes= 2^20 bytes
